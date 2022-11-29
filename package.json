@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Migracode-Barcelona/node-quotes-api/issues"
   },
-  "homepage": "https://github.com/Migracode-Barcelona/node-quotes-api#readme"
+  "homepage": "https://github.com/Migracode-Barcelona/node-quotes-api#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
 }
